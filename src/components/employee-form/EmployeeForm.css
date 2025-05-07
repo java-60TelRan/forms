@@ -1,14 +1,6 @@
-input {
-    display: block;
-    margin: 10px;
-}
-select {
-    display: block;
-    margin: 10px;
-}
-button {
-    margin: 0 10px
+.form-control, .form-select{
+    width: 50vw 
 }
 .error {
-    color: red
+    color: red;
 }
