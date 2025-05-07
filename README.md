@@ -1,9 +1,7 @@
-# HW 33 Definition 
-## Write Coffee Form functionality
-### Write CoffeeOrder interface contining
-- Coffee Type like cappuccino, espresso, etc.
-- Coffee flavor like none, vanilla, caramel, etc.
-- Coffee size as one out of short, tall, grand
-- strength as number of percentage [0-100]
-### Write CoffeeOrderForm component returning form HTML element with required validation
-### Fill App.tsx file with rendering CoffeeOrderForm component and printing out the CoffeeOrder object 
+# HW 34 Definition 
+## Update Coffee Form functionality
+### Before selecting coffee type no possibility to select flavor and size
+### After selecting coffee type the flavor and size should have appropriate options 
+Any your consideration (The HW relates React but not your coffee expertise)<br>
+for example, espresso has no any favors and size only "short" and "tall"
+### Styling using Bootstrap classes
